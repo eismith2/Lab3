@@ -28,7 +28,7 @@ public class WebScraper {
     }
     public static int wordCount(final String url); {
         for (int i = 0; i < url.length; i++) {
-            if (" ")
+            url.split(url.charAt(i) = " ");
         }
     }
 }
